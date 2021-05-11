@@ -9,7 +9,7 @@ author_profile: false
 Japanese numbers
 
 |Number|Hiragana|Kanji|English|Devnagari|Comment|
-|---| --- | --- | ---   | --- | --- |
+|:---:| :---: | :---: | :---: | :---: | :---: |
 |1	|いち   |一   |ichi	| इची      | --- |
 |2	|に     |二	|ni 	| नी        | --- |
 |3	|さん   |三   |san	| सान      | --- |
@@ -29,7 +29,7 @@ Japanese numbers
 General words
 
 |Kanji|Hiragana|English|Devnagari|Meaning|Comment|
-|---| --- | --- | ---   | --- | --- |
+|:---:| :---: | :---: | :---: | :---: | :---: |
 空 | から | kara |करा | Empty | Without 手(te) the kanji means そら(sora) = sky |
 手 | て | te | टे | Hand | --- |
 道 | どう | dou | दोओ | Way/Road |Dou can mean both philosophical and real road in japanese|
@@ -38,7 +38,7 @@ General words
 Katas
 
 |Kanji|Hiragana|English|Devnagari|Meaning|Comment|
-|---| --- | --- | ---   | --- | --- |
+|:---:| :---: | :---: | :---: | :---: | :---: |
 形 | かた | kata | काता | Form/Shape | You are supposed to pracice "shape" of your body |
 平 + 安 | へい + あん| hei + aan| हेए + आन| Peace + Relax | --- |  
 平安 |へいあん| heian | हैयान| Peace/Tranquility|794 to 1185 AD is Heian Jidai (Peace Period) in Japanese History|
