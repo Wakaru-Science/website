@@ -21,6 +21,6 @@ Japanese numbers
 |7	|なな   |七   |nana	|नाना      | Used most often. |
 |8	|はち   |八   |hachi	|हाची      | --- |
 |9	|く     |九   |ku     |कू        | --- |
-|9	|きゅう |九   |kyuu	|क्यूऊ     | --- |
+|9	|きゅう |九   |kyuu	|क्यूऊ     | Used most often. |
 |10	|じゅう |十   |juu	|ज्यूऊ     | --- |
 |0	|れい   |零   |rei	|रेई (झेरो)|Zero is used more often than rei.|
