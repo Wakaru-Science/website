@@ -4,7 +4,7 @@ permalink: /karate/
 author_profile: false
 ---
 
-Karate
+今日は
 
 by Dipesh
 
