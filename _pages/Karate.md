@@ -30,10 +30,10 @@ General words
 
 |Kanji|Hiragana|English|Devnagari|Meaning|Comment|
 |---| --- | --- | ---   | --- | --- |
-空 | から | kara |करा | Empty | without 手(te) the kanji means そら(sora) = sky |
-手 | て | te | टे | hand | --- |
-道 | どう | dou | दोओ | way/road |dou can mean both philosophical and real road in japanese|
-空手| からて | karate | करटे | They way of the empty hand |Why you are here|
+空 | から | kara |करा | Empty | Without 手(te) the kanji means そら(sora) = sky |
+手 | て | te | टे | Hand | --- |
+道 | どう | dou | दोओ | Way/Road |dou can mean both philosophical and real road in japanese|
+空手道| からてどう | karate dou | करटे दोओ| They way of the empty hand |Why you are here|
 
 Katas
 
