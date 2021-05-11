@@ -45,7 +45,8 @@ Katas
 段 |だん | dan | दान | Counter for rank | For ranks, ni (two) + dan (counter) = second, san (three) + dan (counter) = third | 
 ||||||
 平安 + 初 + 段| へいあん + しょ + だん| heian + sho + dan| हैयान + शो + दान| Peaceful Mind 1st Level | Shodan = First, Special Word for First|
-平安 + 二 + 段| へいあん + に + だん| heian + no + dan| हैयान + नी + दान| Peaceful Mind 2nd Level | --- |
+平安 + 二 + 段| へいあん + に + だん| heian + ni + dan| हैयान + नी + दान| Peaceful Mind 2nd Level | --- |
+平安 + 三 + 段| へいあん + さん + だん| heian + san + dan| हैयान + सान + दान| Peaceful Mind 3rd Level | --- |
 
 
 
