@@ -41,8 +41,8 @@ Katas
 |---| --- | --- | ---   | --- | --- |
 形 | かた | kata | काता | Form | --- |
 平 | へい | hei| हेए | Peace | --- |  
-安 | あん | aan | आन | Relax| --_ |
-平安 |へいあん| heian | हैयान| Peace/Tranquility|794 to 1185 AD is Heian Jidai (peace period) in Japanese History|
+安 | あん | aan | आन | Relax| --- |
+平安 |へいあん| heian | हैयान| Peace/Tranquility|794 to 1185 AD is Heian Jidai (Peace Period) in Japanese History|
 
 
 
