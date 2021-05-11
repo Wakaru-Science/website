@@ -8,9 +8,7 @@ author_profile: false
 
 Japanese numbers
 
-Japanese numbers
-
-|number|Hiragana|Kanji|English|Devnagari|Comment|
+|Number|Hiragana|Kanji|English|Devnagari|Comment|
 |---| --- | --- | ---   | --- | --- |
 |1	|いち   |一   |ichi	| इची      | --- |
 |2	|に     |二	|ni 	| नी        | --- |
