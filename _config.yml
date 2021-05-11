@@ -63,6 +63,19 @@ analytics:
     tracking_id: "UA-75551731-2"
     anonymize_ip: false
 
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "https-wakaru-science-github-io-blog"
+  defaults:
+  ...
+  - scope:
+      ...
+    values:
+      ...
+      comments: true # true to enable comment in all post
+    
+    
 author:
   name   : "Dipesh Somvanshi"
   avatar : "/assets/images/bio-photo.jpg"
