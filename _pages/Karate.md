@@ -8,16 +8,19 @@ author_profile: false
 
 Japanese numbers
 
+| foo | bar |
+| --- | --- |
+| baz | bim |
 
-1	いち 	 一   ichi	इची
+
+1	いち 	   一   ichi	इची
 
 2	に       二	  ni 	नी
 
 3	さん   	 三   san	सान
 
-4	し      	 四   shi	शी
-
-5	よん   	 四   yon	योन
+4	し        四   shi	शी
+5	よん      四   yon	योन
 
 5	ご       五	  go	गो 
 
