@@ -32,14 +32,14 @@ General words
 |---| --- | --- | ---   | --- | --- |
 空 | から | kara |करा | Empty | Without 手(te) the kanji means そら(sora) = sky |
 手 | て | te | टे | Hand | --- |
-道 | どう | dou | दोओ | Way/Road |dou can mean both philosophical and real road in japanese|
+道 | どう | dou | दोओ | Way/Road |Dou can mean both philosophical and real road in japanese|
 空手道| からてどう | karate dou | करटे दोओ| They way of the empty hand |Why you are here|
 
 Katas
 
 |Kanji|Hiragana|English|Devnagari|Meaning|Comment|
 |---| --- | --- | ---   | --- | --- |
-形 | かた | kata | काता | Form | --- |
+形 | かた | kata | काता | Form/Shape | You are supposed to pracice "shape" of your body |
 平 | へい | hei| हेए | Peace | --- |  
 安 | あん | aan | आन | Relax| --- |
 平安 |へいあん| heian | हैयान| Peace/Tranquility|794 to 1185 AD is Heian Jidai (Peace Period) in Japanese History|
