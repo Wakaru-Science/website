@@ -42,6 +42,10 @@ Katas
 形 | かた | kata | काता | Form/Shape | You are supposed to pracice "shape" of your body |
 平 + 安 | へい + あん| hei + aan| हेए + आन| Peace + Relax | --- |  
 平安 |へいあん| heian | हैयान| Peace/Tranquility|794 to 1185 AD is Heian Jidai (Peace Period) in Japanese History|
+段 |だん | dan | दान | Counter for rank | For ranks, ni(two) + dan(counter) = second, san(three) + dan(counter) = third | 
+|---| --- | --- | ---   | --- | --- |
+平 + 安 | へい + あん| hei + aan| हेए + आन| Peace + Relax | --- |  
+
 
 
 
