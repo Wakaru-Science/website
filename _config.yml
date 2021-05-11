@@ -57,6 +57,12 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-2709176-10"
+    anonymize_ip: false
+
 author:
   name   : "Dipesh Somvanshi"
   avatar : "/assets/images/bio-photo.jpg"
