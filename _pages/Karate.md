@@ -10,6 +10,7 @@ Japanese numbers
 
 |Number|Hiragana|Kanji|English|Devnagari|Comment|
 |:---:| :---: | :---: | :---: | :---: | :---: |
+|0	|れい   |零   |rei	|रेई (झेरो)|Zero is used more often than rei|
 |1	|いち   |一   |ichi	| इची      | --- |
 |2	|に     |二	|ni 	| नी        | --- |
 |3	|さん   |三   |san	| सान      | --- |
@@ -23,8 +24,11 @@ Japanese numbers
 |9	|く     |九   |ku     |कू        | --- |
 |9	|きゅう |九   |kyuu	|क्यूऊ     | Used most often|
 |10	|じゅう |十   |juu	|ज्यूऊ     | --- |
-|0	|れい   |零   |rei	|रेई (झेरो)|Zero is used more often than rei|
-
+|11	|じゅう + いち |十 +  一  |jyuu + ichi	|ज्यूऊ + इची | Keep adding ichi, ni, san to jyuu |
+| ...	| ... |... |...	| ...     | --- |
+|20	|に + じゅう |二 + 十   |ni + juu	|नी + ज्यूऊ | For age it is hatachi not nijyuu, as you become adult at 20 years old|
+| ...	| ... |... |...	| ...     | --- |
+|100| ひゃく | 百| hyaku | ह्याकू | Special word for 100 |
 
 General words
 
