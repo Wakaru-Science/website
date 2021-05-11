@@ -40,8 +40,7 @@ Katas
 |Kanji|Hiragana|English|Devnagari|Meaning|Comment|
 |---| --- | --- | ---   | --- | --- |
 形 | かた | kata | काता | Form/Shape | You are supposed to pracice "shape" of your body |
-平 | へい | hei| हेए | Peace | --- |  
-安 | あん | aan | आन | Relax| --- |
+平 安 | へい あん| hei aan| हेए  आन| Peace Relax | --- |  
 平安 |へいあん| heian | हैयान| Peace/Tranquility|794 to 1185 AD is Heian Jidai (Peace Period) in Japanese History|
 
 
