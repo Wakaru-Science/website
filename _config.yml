@@ -60,7 +60,7 @@ plugins:
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "UA-2709176-10"
+    tracking_id: "UA-75551731-2"
     anonymize_ip: false
 
 author:
