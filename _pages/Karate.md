@@ -34,33 +34,33 @@ author_profile: false
 
 |Kanji|Hiragana|English|Devnagari|Meaning|Comment|
 |:---:| :---: | :---: | :---: | :---: | :---: |
-空 | から | kara |करा | Empty | Without 手(te) the kanji means そら(sora) = sky |
-手 | て | te | टे | Hand | --- |
+空 | から | kara |करा | Empty | The kanji (空)  means そら(sora) = sky |
+手 | て | te | टे | Hand | Eg. te = hand, kami becomes gami = paper, hand+paper = letter |
 道 | どう | dou | दोओ | Way/Road |Dou can mean both philosophical and real road in japanese|
-空手道| からてどう | karate dou | करटे दोओ| They way of the empty hand |Why you are here|
-空手家| からてか | karate ka | कराटे का| karate + home |Karate practicioner|
+空手道| からてどう | Karate dou | करटे दोओ| They way of the empty hand | karate full formal name|
+空手家| からてか | Karate ka | कराटे का| Karate practicioner| karate + ka (iie) = home, home of karate = you |
 ||||||
-|前 | まえ |mae| माए | front | --- |
-|後ろ|うし + ろ|ushiro| उशिरो |back/behind| --- |
-|右| みぎ |migi| मिगी | right | --- |
-|左| ひだり |hidari| हिदारी | left | --- |
+|前 | まえ |mae| माए | Front | rude way of calling someone is omae or "my honorable front". |
+|後ろ|うし + ろ| ushiro| उशिरो |Back/behind| --- |
+|右| みぎ |migi| मिगी | Right | --- |
+|左| ひだり |hidari| हिदारी | Left | --- |
 ||||||
-| 押す| お + す |osu|  ओस (ओसु)	| to push/press | osu is a short way of saying that "I will push through the difficulty/pain". Non-japanese students also use it for "I understand" and "Thank you" |
-| 礼	| れい |rei| रेई 	| thanks/gratitude | rei means your instructing is commanding you to show your gratitude/thanks. You respond to it by bowing |
-| 始め	| はじ + め  |hajime| हाजीमे 	| start/begin | Famous anime "hajime no ippo" means "the begining step" |
-| 止める	| や + める | yame (ru)| यामे (रू)  | stop (order) | --- |
-| 目す	| もく+す |mokusu| मोकुसू 	| to pay attention/watch (inside yourself)  | meditate |
+| 押す| お + す |osu|  ओस (ओसु)	| To push/press | Osu is a short way of saying that "I will push through the difficulty/pain". Non-japanese students also use it for "I understand" and "Thank you" |
+| 礼	| れい |rei| रेई 	| thanks/gratitude | Rei means your instructor is commanding you to show your gratitude/thanks. You respond to it by bowing |
+| 始め	| はじ + め  |hajime| हाजीमे 	| Start/begin | Famous anime "hajime no ippo" means "the begining step" |
+| 止める	| や + める | yame (ru)| यामे (रू)  | Stop doing it (order) | same kanji word "tomare" means "stop moving" |
+| 目す	| もく+す |mokusu| मोकुसू 	| Meditate | mokusu = to pay attention/watch (inside yourself), 目 = symbol for eye |
 ||||||
-| 土壌	| どじょう |dojo| दोजो	| soil | ground where you practice karate |
-| 先生	| せんせい |sensei|	सेन्सेऐ | before/previous + life/birth | teacher |
-| 先輩	| せんぱい |senpai| before/previous + comrade/companion	| सेंपाई | senior |
-| 後輩	| こうはい |kohai| behind/back + comrade/companion	| कोओहाई  | junior |
-| 帯	| おび |obi| kimono sash | ओबी | belt |
-| 着	| き | ki (gi) | wear	| (की) (गी)| karate uniform. This is same ki of kimono (mono=thing, kimono = wear thingy) |
+| 土壌	| どじょう |dojo| दोजो	| Soil | Ground where you practice karate |
+| 先生	| せんせい |sensei|	सेन्सेऐ |  Teacher | sen = before/previous, sei = life/birth |
+| 先輩	| せんぱい |senpai|  सेंपाई | Senior |  sen = before/previous, hai becomes pai = comrade/companion	|
+| 後輩	| こうはい |kohai|  कोओहाई  | Junior | kou = behind/back, hai = comrade/companion	|
+| 帯	| おび |obi| ओबी | Belt | Kimono sash |
+| 着	| き | ki (gi) | (की) (गी)| Karate uniform| ki becomes gi = wear. This is same ki of kimono (mono=thing, kimono = wear thingy) |
 ||||||
-| ありがとう	| ありがとう |arigatou| thanks	| अरिगातोओ  | shortform of formal doumo arigatou gozaimasu |
-| 済みません	| す + みません |sumimasen| settle(debt), relieve(burden) | सुमीमासेन | Sorry |
-| さよなら| さよなら |sayonara| bye	| सायोनारा | do not use this famous word for bye. It is used when you are leaving for a long period of time, like moving to a different country or death |
+| ありがとう	| ありがとう | arigatou|  अरिगातोओ  | Thanks	| Shortform of formal "doumo arigatou gozaimasu" |
+| 済みません	| す + みません |sumimasen|  सुमीमासेन | Sorry | sumi = settle(debt), relieve(burden) masen = past tense |
+| さよなら| さよなら |sayonara|  सायोनारा | Bye	| Do not use this famous word for bye. It is used when you are leaving for a long period of time, like moving to a different country or death |
 
 
 ## Katas
