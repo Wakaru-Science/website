@@ -38,9 +38,9 @@ author_profile: false
 手 | て | te | टे | Hand | Eg. te = hand, kami becomes gami = paper, hand+paper = letter |
 道 | どう | dou | दोओ | Way/Road |Dou can mean both philosophical and real road in japanese|
 空手道| からてどう | Karate dou | करटे दोओ| They way of the empty hand | karate full formal name|
-空手家| からてか | Karate ka | कराटे का| Karate practicioner| karate + ka (iie) = home, home of karate = you |
+空手家| からてか | Karate ka | कराटे का| Karate practicioner| Karate + ka (iie) = home, home of karate = you |
 ||||||
-|前 | まえ |mae| माए | Front | rude way of calling someone is omae or "my honorable front". |
+|前 | まえ |mae| माए | Front | A rude way of calling someone is "omae" or "my honorable front". |
 |後ろ|うし + ろ| ushiro| उशिरो |Back/behind| --- |
 |右| みぎ |migi| मिगी | Right | --- |
 |左| ひだり |hidari| हिदारी | Left | --- |
