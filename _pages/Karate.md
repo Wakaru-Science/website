@@ -45,8 +45,8 @@ author_profile: false
 |右| みぎ |migi| मिगी | right | --- |
 |左| ひだり |hidari| हिदारी | left | --- |
 ||||||
-| 押す| お + す |osu|  ओस (ओसु)	| to push/press | --- |
-| 礼	| れい |rei| रेई 	| thanks/gratitude | rei means your instructing is commanding you to show your gratitude/thanks. You respond to it by bowing. |
+| 押す| お + す |osu|  ओस (ओसु)	| to push/press | osu is a short way of saying that I will push through the difficulty/pain. Non-japanese students also used it for "I understand" and "Thank you" |
+| 礼	| れい |rei| रेई 	| thanks/gratitude | rei means your instructing is commanding you to show your gratitude/thanks. You respond to it by bowing |
 | ...	| ... |hajime|...	| ...     | --- |
 | ...	| ... |yame| ...     | --- |
 | ...	| ... |mokusu|...	| ...     | --- |
