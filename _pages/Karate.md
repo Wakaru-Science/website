@@ -25,12 +25,7 @@ Japanese is more similar to Hindi/Marathi than English. It is much easier to ver
 |ら	|  || り	|  ||る	|   ||れ	|  ||ろ |  |
 |わ	|  || -	|  ||-  |   ||-	|  ||を |  |
 
-<details>
-	<summary> Japanese numbers for counting in karate</summary> 
-
-<p>
-	
-## Japanese numbers
+## Japanese numbers for counting in karate
 
 |Number|Hiragana|Kanji|English|Devnagari|Comment|
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -54,12 +49,7 @@ Japanese is more similar to Hindi/Marathi than English. It is much easier to ver
 | ...	| ... |... |...	| ...     | --- |
 |100| ひゃく | 百| hyaku | ह्याकू | Special word for 100 |
 
-</p>
-
-</details>
-
-<details>
-	<summary> Common Karate related Words</summary>  
+## Common Karate related Words
 		
 ### Karate
 
@@ -109,11 +99,6 @@ Japanese is more similar to Hindi/Marathi than English. It is much easier to ver
 | 済みません	| す + みません |sumimasen|  सुमीमासेन | Sorry | sumi = settle(debt), relieve(burden) masen = past tense |
 | さよなら| さよなら |sayonara|  सायोनारा | Bye	| Do not use this famous word for bye. It is used when you are leaving for a long period of time, like moving to a different country or death |
 
-</details>
-
-<details>
-	<summary> Katas</summary>  
-
 ## Katas
 
 |Kanji|Hiragana|English|Devnagari|Meaning|Comment|
@@ -126,7 +111,6 @@ Japanese is more similar to Hindi/Marathi than English. It is much easier to ver
 平安 + 二 + 段| へいあん + に + だん| heian + ni + dan| हेयान + नी + दान| Peaceful Mind 2nd Level | --- |
 平安 + 三 + 段| へいあん + さん + だん| heian + san + dan| हेयान + सान + दान| Peaceful Mind 3rd Level | --- |
 
-</details>
 
 
 
