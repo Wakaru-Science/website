@@ -28,6 +28,8 @@ Japanese is more similar to Hindi/Marathi than English. It is much easier to ver
 <details>
 	<summary> Japanese numbers for counting in karate</summary> 
 
+<p>
+	
 ## Japanese numbers
 
 |Number|Hiragana|Kanji|English|Devnagari|Comment|
@@ -51,6 +53,8 @@ Japanese is more similar to Hindi/Marathi than English. It is much easier to ver
 |20	|に + じゅう |二 + 十   |ni + juu	|नी + ज्यूऊ | For age it is hatachi not nijyuu, as you become adult at 20 years old|
 | ...	| ... |... |...	| ...     | --- |
 |100| ひゃく | 百| hyaku | ह्याकू | Special word for 100 |
+
+</p>
 
 </details>
 
