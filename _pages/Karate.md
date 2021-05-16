@@ -28,7 +28,7 @@ Japanese is more similar to Hindi/Marathi than English. It is much easier to ver
 
 Note: 
 
-1. There is no ल in japanese. Japanese people cannot pronounce ल. ल is pronounced as र. 
+1. There is no ल in japanese language. Japanese people cannot pronounce ल. ल is pronounced as र. 
 2. じ = ぢ = ज़ी. The sound is between दी and ची . (half द and ज़ी [ द्जी ]) じ is more common.
 3. ず = づ = झू. The sound is between दू and झू. (half द and झू [ द्झू ] ) ず is more common.
 
