@@ -38,29 +38,6 @@ author_profile: false
 手 | て | te | टे | Hand | --- |
 空手| からて | karate | कराटे| empty hand | karate|
 空手道| からてどう | karate dou | कराटे दोओ| karate + path/road |Way of the empty hand|
-空手家| からてか | karate ka | कराटे का| karate + home |Karate practicioner|
-||||||
-|前 | まえ |mae| माए | front | --- |
-|後ろ|うし + ろ|ushiro| उशिरो |back/behind| --- |
-|右| みぎ |migi| मिगी | right | --- |
-|左| ひだり |hidari| हिदारी | left | --- |
-||||||
-| 押す| お + す |osu|  ओस (ओसु)	| to push/press | osu is a short way of saying that "I will push through the difficulty/pain". Non-japanese students also use it for "I understand" and "Thank you" |
-| 礼	| れい |rei| रेई 	| thanks/gratitude | rei means your instructing is commanding you to show your gratitude/thanks. You respond to it by bowing |
-| 始め	| はじ + め  |hajime| हाजीमे 	| start/begin | Famous anime "hajime no ippo" means "the begining step" |
-| 止める	| や + める | yame (ru)| यामे (रू)  | stop (order) | --- |
-| 目す	| もく+す |mokusu| मोकुसू 	| to pay attention/watch (inside yourself)  | meditate |
-||||||
-| ...	| ... |dojo|...	| ...     | --- |
-| ...	| ... |sensei|...	| ...     | --- |
-| ...	| ... |senpai|...	| ...     | --- |
-| ...	| ... |kohai|...	| ...     | --- |
-| ...	| ... |obi|...	| ...     | --- |
-| ...	| ... |gi|...	| ...     | --- |
-||||||
-| ...	| ... |sayonara|...	| ...     | --- |
-| ...	| ... |arigatou|...	| ...     | --- |
-| ...	| ... |sumimasen|...	| ...     | --- |
 
 ## **Katas**
 
