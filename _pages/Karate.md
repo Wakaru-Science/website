@@ -6,7 +6,7 @@ author_profile: false
 
 
 
-Japanese numbers
+## Japanese numbers
 
 |Number|Hiragana|Kanji|English|Devnagari|Comment|
 |:---:| :---: | :---: | :---: | :---: | :---: |
@@ -30,7 +30,7 @@ Japanese numbers
 | ...	| ... |... |...	| ...     | --- |
 |100| ひゃく | 百| hyaku | ह्याकू | Special word for 100 |
 
-General words
+## General words
 
 |Kanji|Hiragana|English|Devnagari|Meaning|Comment|
 |:---:| :---: | :---: | :---: | :---: | :---: |
@@ -38,8 +38,32 @@ General words
 手 | て | te | टे | Hand | --- |
 道 | どう | dou | दोओ | Way/Road |Dou can mean both philosophical and real road in japanese|
 空手道| からてどう | karate dou | करटे दोओ| They way of the empty hand |Why you are here|
+空手家| からてか | karate ka | कराटे का| karate + home |Karate practicioner|
+||||||
+|前 | まえ |mae| माए | front | --- |
+|後ろ|うし + ろ|ushiro| उशिरो |back/behind| --- |
+|右| みぎ |migi| मिगी | right | --- |
+|左| ひだり |hidari| हिदारी | left | --- |
+||||||
+| 押す| お + す |osu|  ओस (ओसु)	| to push/press | osu is a short way of saying that "I will push through the difficulty/pain". Non-japanese students also use it for "I understand" and "Thank you" |
+| 礼	| れい |rei| रेई 	| thanks/gratitude | rei means your instructing is commanding you to show your gratitude/thanks. You respond to it by bowing |
+| 始め	| はじ + め  |hajime| हाजीमे 	| start/begin | Famous anime "hajime no ippo" means "the begining step" |
+| 止める	| や + める | yame (ru)| यामे (रू)  | stop (order) | --- |
+| 目す	| もく+す |mokusu| मोकुसू 	| to pay attention/watch (inside yourself)  | meditate |
+||||||
+| 土壌	| どじょう |dojo| दोजो	| soil | ground where you practice karate |
+| 先生	| せんせい |sensei|	सेन्सेऐ | before/previous + life/birth | teacher |
+| 先輩	| せんぱい |senpai| before/previous + comrade/companion	| सेंपाई | senior |
+| 後輩	| こうはい |kohai| behind/back + comrade/companion	| कोओहाई  | junior |
+| 帯	| おび |obi| kimono sash | ओबी | belt |
+| 着	| き | ki (gi) | wear	| (की) (गी)| karate uniform. This is same ki of kimono (mono=thing, kimono = wear thingy) |
+||||||
+| ありがとう	| ありがとう |arigatou| thanks	| अरिगातोओ  | shortform of formal doumo arigatou gozaimasu |
+| 済みません	| す + みません |sumimasen| settle(debt), relieve(burden) | सुमीमासेन | Sorry |
+| さよなら| さよなら |sayonara| bye	| सायोनारा | do not use this famous word for bye. It is used when you are leaving for a long period of time, like moving to a different country or death |
 
-Katas
+
+## Katas
 
 |Kanji|Hiragana|English|Devnagari|Meaning|Comment|
 |:---:| :---: | :---: | :---: | :---: | :---: |
