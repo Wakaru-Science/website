@@ -68,8 +68,7 @@ author_profile: false
 |Kanji|Hiragana|English|Devnagari|Meaning|Comment|
 |:---:| :---: | :---: | :---: | :---: | :---: |
 形 | かた | kata | काता | Form/Shape | You are supposed to practice "shape" of your body |
-平 + 安 | へい + あん| hei + aan| हेए + आन| Peace + Relax | --- |  
-平安 |へいあん| heian | हेयान| Peace/Tranquility|794 to 1185 AD is Heian Jidai (Peace Period) in Japanese History|
+平 + 安 | へい + あん| hei + aan| हेएयान| Peace + Relax | hei = Peace, aan = Relax, 794 to 1185 AD is Heian Jidai (Peace Period) in Japanese History|  
 段 |だん | dan | दान | Counter for rank | For ranks, ni (two) + dan (counter) = second, san (three) + dan (counter) = third | 
 ||||||
 平安 + 初 + 段| へいあん + しょ + だん| heian + sho + dan| हेयान + शो + दान| Peaceful Mind 1st Level | Shodan = First, Special Word for First|
