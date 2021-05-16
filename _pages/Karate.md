@@ -6,7 +6,7 @@ author_profile: false
 
 
 
-## **Japanese numbers**
+# **Japanese numbers**
 
 |Number|Hiragana|Kanji|English|Devnagari|Comment|
 |:---:| :---: | :---: | :---: | :---: | :---: |
