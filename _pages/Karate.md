@@ -16,7 +16,7 @@ Japanese is more similar to Hindi/Marathi than English. It is much easier to ver
 |さ	|सा  | し|शी  |す	|सू   |せ|से  |そ |सो  |
 |ざ	|झा  | じ|ज़ी  |ず	|झू   |ぜ|ज़े  |ぞ |झो |
 |た	|ता | ち	|ची  |つ	|त्सू   |て  |टे |と |टो  |
-|だ	|दा  | ぢ|ची  |づ	|त्सू   |で |दे  |ど |दो  |
+|だ	|दा  | ぢ|ज़ी  |づ	|झू    |で |दे  |ど |दो  |
 |な	|ना  | に|नी  |ぬ	|नू   |ね|ने  |の |नो  |
 |は	|हा  | ひ|ही  |ふ	|फू   |へ|हे  |ほ |हो  |
 |ば	|बा  | び|बी  |ぶ	|बू   |べ|बे  |ぼ |बो  |
@@ -26,7 +26,11 @@ Japanese is more similar to Hindi/Marathi than English. It is much easier to ver
 |や	|या  | -|-   |ゆ	|यू   |-|-  |よ |यो  |
 |わ	|वा  | - |-  |-  |-   |-| - |を |वो |
 
-Note: There is no ल in japanese. Japanese people cannot pronounce ल. ल is pronounced as र. 
+Note: 
+
+1. There is no ल in japanese. Japanese people cannot pronounce ल. ल is pronounced as र. 
+2. じ = ぢ = ज़ी. The sound is between दी and ची . (half द and ज़ी [ द्जी ]) じ is more common.
+3. ず = づ = झू. The sound is between दू and झू. (half द and झू [ द्झू ] ) ず is more common.
 
 ## Japanese numbers for counting in karate
 
