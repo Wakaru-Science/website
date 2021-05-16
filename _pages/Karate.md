@@ -6,7 +6,7 @@ author_profile: false
 
 
 
-**Japanese numbers**
+Japanese numbers
 
 |Number|Hiragana|Kanji|English|Devnagari|Comment|
 |:---:| :---: | :---: | :---: | :---: | :---: |
@@ -30,7 +30,7 @@ author_profile: false
 | ...	| ... |... |...	| ...     | --- |
 |100| ひゃく | 百| hyaku | ह्याकू | Special word for 100 |
 
-**General words**
+General words
 
 |Kanji|Hiragana|English|Devnagari|Meaning|Comment|
 |:---:| :---: | :---: | :---: | :---: | :---: |
@@ -39,7 +39,7 @@ author_profile: false
 空手| からて | karate | कराटे| empty hand | karate|
 空手道| からてどう | karate dou | कराटे दोओ| karate + path/road |Way of the empty hand|
 
-**Katas**
+Katas
 
 |Kanji|Hiragana|English|Devnagari|Meaning|Comment|
 |:---:| :---: | :---: | :---: | :---: | :---: |
