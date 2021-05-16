@@ -33,7 +33,7 @@ Japanese is more similar to Hindi/Marathi than English. It is much easier to ver
 ## Japanese numbers
 
 |Number|Hiragana|Kanji|English|Devnagari|Comment|
-|:---:| :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 |0	|れい   |零   |rei	|रेई (झेरो)|Zero is used more often than rei|
 |1	|いち   |一   |ichi	| इची      | --- |
 |2	|に     |二	|ni 	| नी        | --- |
