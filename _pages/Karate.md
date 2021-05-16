@@ -8,6 +8,23 @@ author_profile: false
 
 Japanese is more similar to Hindi/Marathi than English. It is much easier to very accurate pronounce a japanese word as a native would, if it is written in devnagari script. So, Here are pronounciation of a few karate words in devnagari script. I have added a comments about the peculiarities of japanese language related to word. It may help you relate to the word, or help you remember the pronounciation better. You can ignore the comments if you like.
 
+|Hiragana	|Devnagari  || Hiragana	|Devnagari  ||Hiragana	|Devnagari   ||Hiragana	|Devnagari  ||Hiragana |Devnagari  |
+|あ	|   || い	|  ||う	|   ||え	|  ||お |  |
+|か	|  || き	|  ||く	|   ||け	|  ||こ |  |
+|が	|  || ぎ	|  ||ぐ	|   ||げ	|  ||ご |  |
+|さ	|  || し	|  ||す	|   ||せ	|  ||そ |  |
+|ざ	|  || じ	|  ||ず	|   ||ぜ	|  ||ぞ |  |
+|た	|  || ち	|  ||つ	|   ||て	|  ||と |  |
+|だ	|  || ぢ	|  ||づ	|   ||で	|  ||ど |  |
+|な	|  || に	|  ||ぬ	|   ||ね	|  ||の |  |
+|は	|  || ひ	|  ||ふ	|   ||へ	|  ||ほ |  |
+|ば	|  || び	|  ||ぶ	|   ||べ	|  ||ぼ |  |
+|ぱ	|  || ぴ	|  ||ぷ	|   ||ぺ	|  ||ぽ |  |
+|ま	|  || み	|  ||む	|   ||め	|  ||も |  |
+|や	|  || -	|  ||ゆ	|   ||-	|  ||よ |  |
+|ら	|  || り	|  ||る	|   ||れ	|  ||ろ |  |
+|わ	|  || -	|  ||-  |   ||-	|  ||を |  |
+
 <details>
 	<summary> Japanese numbers for counting in karate</summary> 
 
