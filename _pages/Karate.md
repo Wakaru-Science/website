@@ -36,14 +36,14 @@ author_profile: false
 |:---:| :---: | :---: | :---: | :---: | :---: |
 空 | から | kara |करा | Empty | Without 手(te) the kanji means そら(sora) = sky |
 手 | て | te | टे | Hand | --- |
-道 | どう | dou | दोओ | Way/Road |Dou can mean both philosophical and real road in japanese|
-空手道| からてどう | karate dou | करटे दोओ| Way of the empty hand |Karate formal name|
-空手道| からてどう | karate dou | करटे दोओ| Way of the empty hand |Karate formal name|
+空手| からて | karate | कराटे| empty hand | karate|
+空手道| からてどう | karate dou | कराटे दोओ| karate + path/road |Way of the empty hand|
+空手家| からてか | karate ka | कराटे का| karate + home |Karate practicioner|
 ||||||
-| ...	| ... |mae|...	| ...     | --- |
-| ...	| ... |ushiro|...	| ...     | --- |
-| ...	| ... |higi|...	| ...     | --- |
-| ...	| ... |midari|...	| ...     | --- |
+|前 | まえ |mae| माए | front | --- |
+|後ろ|うし + ろ|ushiro| उशिरो |back/behind| --- |
+|右| みぎ |migi| मिगी | right | --- |
+|左| ひだり |hidari| हिदारी | left | --- |
 ||||||
 | ...	| ... |osu|...	| ...     | --- |
 | ...	| ... |rei|...	| ...     | --- |
