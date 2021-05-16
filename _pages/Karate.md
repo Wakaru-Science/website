@@ -22,8 +22,8 @@ Japanese is more similar to Hindi/Marathi than English. It is much easier to ver
 |ば	|बा  | び|बी  |ぶ	|बू   |べ|बे  |ぼ |बो  |
 |ぱ	|पा  | ぴ|पी  |ぷ	|पू   |ぺ|पे  |ぽ |पो  |
 |ま	|मा  | み|मी  |む	|मू   |め|मे  |も |मो  |
-|や	|या  | -|-   |ゆ	|यू   |-|-  |よ |यो  |
 |ら	|रा  | り|री  |る	|रू   |れ|रे  |ろ |रो  |
+|や	|या  | -|-   |ゆ	|यू   |-|-  |よ |यो  |
 |わ	|वा  | - |-  |-  |-   |-|  |を |वो |
 
 ## Japanese numbers for counting in karate
