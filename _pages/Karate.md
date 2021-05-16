@@ -30,7 +30,7 @@ author_profile: false
 | ...	| ... |... |...	| ...     | --- |
 |100| ひゃく | 百| hyaku | ह्याकू | Special word for 100 |
 
-## **General words**
+**General words**
 
 |Kanji|Hiragana|English|Devnagari|Meaning|Comment|
 |:---:| :---: | :---: | :---: | :---: | :---: |
@@ -39,7 +39,7 @@ author_profile: false
 道 | どう | dou | दोओ | Way/Road |Dou can mean both philosophical and real road in japanese|
 空手道| からてどう | karate dou | करटे दोओ| They way of the empty hand |Why you are here|
 
-## **Katas**
+**Katas**
 
 |Kanji|Hiragana|English|Devnagari|Meaning|Comment|
 |:---:| :---: | :---: | :---: | :---: | :---: |
