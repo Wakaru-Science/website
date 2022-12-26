@@ -37,8 +37,7 @@ include:
   - _pages
 
 head_scripts:
-  - http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
-  
+  - http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML  
   
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
