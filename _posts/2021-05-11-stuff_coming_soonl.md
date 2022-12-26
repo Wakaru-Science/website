@@ -6,6 +6,7 @@ categories:
 tags:
   - Science
 
+usemathjax: true
 ---
 
 Vectors $$\mu$$
