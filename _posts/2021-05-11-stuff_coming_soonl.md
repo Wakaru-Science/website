@@ -5,7 +5,7 @@ categories:
   - blog
 tags:
   - Science
-  
+
 usemathjax: true
 ---
 
