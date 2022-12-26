@@ -61,9 +61,22 @@ When we are dealing with a group of vectors, this method quickly becomes tedious
 Instead of representing $$ \vec{a} \text{ as } a_1 \hat{i} + a_2 \hat{i} + a_3 \hat{j} $$, we can represent it as:
 $$
 \begin{bmatrix}
+a_1 \\
+a_2 \\
+a_3
+\end{bmatrix}
+\begin{bmatrix}
+\hat{i} & \hat{j} & \hat{k}
+\end{bmatrix}
+=
+\vec{a}$$
+
+If you have two vectors, they can be represented in one matrix equation like 
+
+$$
+\begin{bmatrix}
 a_1 & a_2 & a_3
 \end{bmatrix}
-\times
 \begin{bmatrix}
 \hat{i} \\
 \hat{j} \\
@@ -71,6 +84,7 @@ a_1 & a_2 & a_3
 \end{bmatrix}
 =
 \vec{a}$$
+
 
 
 
