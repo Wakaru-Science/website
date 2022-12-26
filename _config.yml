@@ -37,7 +37,7 @@ include:
   - _pages
 
 head_scripts:
-  - /assets/js/mathjax.js
+  - http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
   
   
 # Exclude from processing.
