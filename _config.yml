@@ -35,7 +35,6 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
-  - _includes
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -93,9 +92,6 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-
- # Build settings
- markdown: kramdown
   
 defaults:
   # _posts
