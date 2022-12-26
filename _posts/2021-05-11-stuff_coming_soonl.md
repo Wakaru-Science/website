@@ -206,6 +206,8 @@ $$
 
 This property can be now used to create function like objects,
 
+Instead of fixed fractions like 0.25, we can use trignometric functions, like $$\sin{\theta}$$, which can take $$\theta$$ as a variable. Trignometic functions such as $$\sin{\theta}$$ act like percentages (fractions) anyways.
+
 $$
 \begin{bmatrix}
 1 & 0 & 0      \\
@@ -221,7 +223,7 @@ a_1 &  a_2\cos{\theta} + a_3\sin{\theta} & -a_2\sin{\theta} + a_3\cos{\theta}
 \end{bmatrix}
 $$
 
-where the matrix-function will rotate the vector around x axis by $$ \theta $$ degrees. Such a matrix with a special job to do needs a special name too - Operator
+where the matrix-function will rotate the vector around x axis by $$ \theta $$ degrees. Such a matrix with a special job to do needs a special name too - Operator. Like a fucntion, an operator will transform a (set of) vectors.
 
 How does the operator act?
 
@@ -252,8 +254,89 @@ a_1 & a_2 & a_3
 \begin{bmatrix}
 a_1 & a_2 & a_3
 \end{bmatrix} 
-=
+= \\
 \begin{bmatrix}
 a_1 &  a_2\cos{\theta} + a_3\sin{\theta} & -a_2\sin{\theta} + a_3\cos{\theta}
 \end{bmatrix}
+$$
+
+Each column of the operator matrix tells us how the magnitude of vector in that direction is going to end up. If we are only interested in one direction, we can set all other columns to 0.
+
+Row column is not so important. Setting a row to 0 is basically setting the contribution of an dimension to 0. Setting the row to 0 makes sure that no matter how complicated the matrix is, everytime the magnitude in that dimension gets multiplied, it is always multiplied by 0, and the final result will have no contribution from that direction whatsoever.
+
+Just like functions we can combine two operators, to create more complicated transformations. Instead of multipying by 3, we can multiply by any number x 
+$$
+\begin{bmatrix}
+x & 0 & 0 \\
+0 & x & 0 \\
+0 & 0 & x \\
+\end{bmatrix}
+\begin{bmatrix}
+a_1 &  a_2 & a_3
+\end{bmatrix}
+=
+\begin{bmatrix}
+xa_1 & xa_2 & xa_3
+\end{bmatrix}
+$$
+
+and raise the magnitude to the power of e 
+
+$$
+\begin{bmatrix}
+exp() & 0 & 0 \\
+0 & exp() & 0 \\
+0 & 0 & exp() \\
+\end{bmatrix}
+\begin{bmatrix}
+a_1 &  a_2 & a_3
+\end{bmatrix}
+=
+\begin{bmatrix}
+e^{a_1} & e^{a_2} & e^{a_3}
+\end{bmatrix}
+$$
+
+Multiplying the result of both operations gives us 
+$$
+\begin{bmatrix}
+xa_1e^{a_1}  &  xa_2e^{a_2} & xa_3e^{a_3}
+\end{bmatrix}
+$$
+
+But can also have operator act on an operator, just like a function $$ g(f(x))$$
+$$
+\begin{bmatrix}
+exp() & 0 & 0 \\
+0 & exp() & 0 \\
+0 & 0 & exp() \\
+\end{bmatrix}
+\begin{bmatrix}
+x & 0 & 0 \\
+0 & x & 0 \\
+0 & 0 & x \\
+\end{bmatrix}
+\begin{bmatrix}
+a_1 &  a_2 & a_3
+\end{bmatrix}
+=
+\begin{bmatrix}
+a_1e^{xa_1}  &  a_2e^{xa_2} & a_3e^{xa_3}
+\end{bmatrix}
+
+
+
+and then add 5.
+$$
+\begin{bmatrix}
+a_1 &  a_2 & a_3
+\end{bmatrix}
++
+\begin{bmatrix}
+5 &  5 & 5
+\end{bmatrix}
+=
+\begin{bmatrix}
+a_1+5 &  a_2+5 & a_3+5
+\end{bmatrix} +
 $$
