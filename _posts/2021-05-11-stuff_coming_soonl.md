@@ -153,10 +153,70 @@ a_3
 =
 a_1 $$
 
+Multiplying vector a by 3 is $$ 3\vec{a} = 3a_1 \hat{i} + 3a_2 \hat{i} + 3a_3 \hat{j} $$ but in matrix notation,
 
+$$
+3
+\begin{bmatrix}
+a_1 \\
+a_2 \\
+a_3
+\end{bmatrix}
+=
+\begin{bmatrix}
+3a_1 \\
+3a_2 \\
+3a_3
+\end{bmatrix}
+$$
 
+This operation can also be rewritten as
 
+$$
+\begin{bmatrix}
+3 & 0 & 0 \\
+0 & 3 & 0 \\
+0 & 0 & 3 \\
+\end{bmatrix}
+\begin{bmatrix}
+a_1 &  a_2 & a_3
+\end{bmatrix}
+=
+\begin{bmatrix}
+3a_1 & 3a_2 & 3a_3
+\end{bmatrix}
+$$
 
- 
+Why did we complicate a simple operation? It is the show how good matrices are at mixing a vector. (liner combination) for example
 
- 
+$$
+\begin{bmatrix}
+0.25 & 0 & 0.25 \\
+0    & 1 & 0    \\
+0.75 & 0 & 0.75 \\
+\end{bmatrix}
+\begin{bmatrix}
+a_1 &  a_2 & a_3
+\end{bmatrix}
+=
+\begin{bmatrix}
+0.25a_1+0.75a_3 & a_2 & 0.25a_1+0.75a_3
+\end{bmatrix}
+$$
+
+This property can be now used to create function like objects,
+
+$$
+\begin{bmatrix}
+1 & 0 & 0      \\
+0 & \cos{\theta} & -\sin{\theta}    \\
+0 & \sin{\theta} & \cos{\theta} \\
+\end{bmatrix}
+=
+\begin{bmatrix}
+a_1 & a_2 & 0.25a_1+0.75a_3
+\end{bmatrix}
+\begin{bmatrix}
+a_1 &  a_2\cos{\theta} + a_3\sin{\theta} & -a_2\sin{\theta} + a_3\cos{\theta}
+\end{bmatrix}
+$$
