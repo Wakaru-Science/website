@@ -84,7 +84,10 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/meiou_tsukizoku"
-
+    - label: "Instagram"
+      icon: "fab fa-linkedin-in"
+      url: "https://instagram.com/meiou_tsukizoku"
+      
 footer:
   links:
     - label: "Twitter"
