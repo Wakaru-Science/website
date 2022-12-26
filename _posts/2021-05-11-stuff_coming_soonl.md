@@ -220,3 +220,5 @@ a_1 & a_2 & 0.25a_1+0.75a_3
 a_1 &  a_2\cos{\theta} + a_3\sin{\theta} & -a_2\sin{\theta} + a_3\cos{\theta}
 \end{bmatrix}
 $$
+
+where the matrix-function  will rotate the vector around x axis by $$ \theta $$ degrees. Such a matrix with a special job to do needs a special name too - Operator
