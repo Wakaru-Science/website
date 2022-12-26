@@ -48,13 +48,13 @@ $$ \vec{a} = a_1 \hat{i} + a_2 \hat{i} + a_3 \hat{j} $$
 
 dot product
 
-$$ \vec{a} . \vec{b} = a_1 b_1 + a_2 b_2 + a_3 b_3 $$
+$$ \vec{a} \cdot \vec{b} = a_1 b_1 + a_2 b_2 + a_3 b_3 $$
 
-$$ \vec{a} . \vec{a} = a_1^2 + a_2^2 + a_3^2 $$
+$$ \vec{a} \cdot \vec{a} = a_1^2 + a_2^2 + a_3^2 $$
 
-$$ \hat{i} . \vec{b} = a_1 $$
+$$ \hat{i} \cdot \vec{b} = a_1 $$
 
-$$ \hat{i} . \hat{i} = 1 \text{ and } \hat{j} . \hat{j} = 0$$
+$$ \hat{i} \cdot \hat{i} = 1 \text{ and } \hat{j} \cdot \hat{j} = 0$$
 
 When we are dealing with a group of vectors, this method quickly becomes tedious. Once the unit vectors are defined for a system, they do not change and writing them again and again does not accomplish anything. Moreover, we need a way to perform operations, addition, multiplication, and manipulate a group of vectors in one go. The current method is good for single for single vector operations, but not for a many vectors. In the current method, we also need a way to group multiple operations (series of additon, multipication in a specific order) so that we can we can do much more complicated things.
 
@@ -73,6 +73,8 @@ a_3
 \vec{a}
 \end{bmatrix}
 $$
+
+Vector is represented as a 3x1 or 1x3 matrix. Matrix is condensed way to form linear combinations or linear equations.
 
 Using the rules of matrix multiplication, the matrix equation expands into vector equation.
 
@@ -121,15 +123,15 @@ a_3
 \end{bmatrix}$$, where the order in which the vector magnitudes appears, denote which unit vector it corresponds to.
 
 
-Thus, the dot product $$ \vec{a} . \vec{b} = a_1 b_1 + a_2 b_2 + a_3 b_3 $$ is:
+Thus, the dot product $$ \vec{a} \cdot \vec{b} = a_1 b_1 + a_2 b_2 + a_3 b_3 $$ is:
 
 $$
 \begin{bmatrix}
 a_1 \\
 a_2 \\
 a_3
-.
 \end{bmatrix}
+\cdot
 \begin{bmatrix}
 b_1 & b_2 & b_3 \\
 \end{bmatrix}
@@ -138,15 +140,15 @@ a_1 b_1 + a_2 b_2 + a_3 b_3 $$
 
 The unit vecors themselves become [1,1,1] because the order matters now, the notation used to define them is irrelevant.
 
-Thus, $$ \vec{a} . \hat{i} = a_1 $$ becomes,
+Thus, $$ \vec{a} \cdot \hat{i} = a_1 $$ becomes,
 
 $$
 \begin{bmatrix}
 a_1 \\
 a_2 \\
 a_3
-.
 \end{bmatrix}
+\cdot
 \begin{bmatrix}
 1 & 0 & 0 \\
 \end{bmatrix}
@@ -187,7 +189,7 @@ a_1 &  a_2 & a_3
 \end{bmatrix}
 $$
 
-Why did we complicate a simple operation? It is the show how good matrices are at mixing a vector. (liner combination) for example
+Why did we complicate a simple operation? It is the show how good matrices are at mixing a vector (linear combination) for example
 
 $$
 \begin{bmatrix}
@@ -323,20 +325,3 @@ a_1 &  a_2 & a_3
 \begin{bmatrix}
 a_1e^{xa_1}  &  a_2e^{xa_2} & a_3e^{xa_3}
 \end{bmatrix}
-
-
-
-and then add 5.
-$$
-\begin{bmatrix}
-a_1 &  a_2 & a_3
-\end{bmatrix}
-+
-\begin{bmatrix}
-5 &  5 & 5
-\end{bmatrix}
-=
-\begin{bmatrix}
-a_1+5 &  a_2+5 & a_3+5
-\end{bmatrix} +
-$$
