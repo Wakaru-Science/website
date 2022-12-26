@@ -93,6 +93,26 @@ a_3 & b_3
 \end{bmatrix}
 $$
 
+A new vector with a different coefficients as $$ \vec{a} = a_1 \hat{i} + a_2 \hat{i} + a_3 \hat{j} $$ but different basis is $$ \vec{a}^\prime = a_1 \hat{l} + a_2 \hat{m} + a_3 \hat{n} $$
+
+These two vectors are represented as:
+
+$$
+\begin{bmatrix}
+a_1 \\
+a_2 \\
+a_3
+\end{bmatrix}
+\begin{bmatrix}
+\hat{i} & \hat{j} & \hat{k} \\
+\hat{l} & \hat{m} & \hat{n}
+\end{bmatrix}
+=
+\begin{bmatrix}
+\vec{a} & \vec{a}^\prime
+\end{bmatrix}
+$$
+
 
 
 
