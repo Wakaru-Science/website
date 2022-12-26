@@ -6,7 +6,6 @@ categories:
 tags:
   - Science
 
-usemathjax: true
 ---
 
 Hii, I am Dipesh.
