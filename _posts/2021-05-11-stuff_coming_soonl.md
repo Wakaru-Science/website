@@ -212,10 +212,10 @@ $$
 0 & \cos{\theta} & -\sin{\theta}    \\
 0 & \sin{\theta} & \cos{\theta} \\
 \end{bmatrix}
-=
 \begin{bmatrix}
-a_1 & a_2 & 0.25a_1+0.75a_3
+a_1 & a_2 & a_3
 \end{bmatrix}
+=
 \begin{bmatrix}
 a_1 &  a_2\cos{\theta} + a_3\sin{\theta} & -a_2\sin{\theta} + a_3\cos{\theta}
 \end{bmatrix}
