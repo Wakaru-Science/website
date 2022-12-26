@@ -5,6 +5,8 @@ categories:
   - blog
 tags:
   - Science
+  
+usemathjax: true
 ---
 
 Hii, I am Dipesh.

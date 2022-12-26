@@ -93,9 +93,6 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
- # Build settings
- markdown: kramdown
-  
 defaults:
   # _posts
   - scope:
