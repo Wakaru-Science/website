@@ -9,4 +9,6 @@ tags:
 
 Hii, I am Dipesh.
 
-I am going to post something
+I am going to post something#
+
+testing latex $\sigma$  $$\mu = 3x$$
