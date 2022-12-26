@@ -128,6 +128,7 @@ $$
 a_1 \\
 a_2 \\
 a_3
+.
 \end{bmatrix}
 \begin{bmatrix}
 b_1 & b_2 & b_3 \\
@@ -135,6 +136,22 @@ b_1 & b_2 & b_3 \\
 =
 a_1 b_1 + a_2 b_2 + a_3 b_3 $$
 
+The unit vecors themselves become [1,1,1] because the order matters now, the notation used to define them is irrelevant.
+
+Thus, $$ \vec{a} . \hat{i} = a_1 $$ becomes,
+
+$$
+\begin{bmatrix}
+a_1 \\
+a_2 \\
+a_3
+.
+\end{bmatrix}
+\begin{bmatrix}
+1 & 0 & 0 \\
+\end{bmatrix}
+=
+a_1 $$
 
 
 
