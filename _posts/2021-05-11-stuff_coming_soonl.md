@@ -325,3 +325,42 @@ a_1 &  a_2 & a_3
 \begin{bmatrix}
 a_1e^{xa_1}  &  a_2e^{xa_2} & a_3e^{xa_3}
 \end{bmatrix}
+
+The only way of creating new vectors is scaling and adding them together, and matrices arises naturally.
+
+Just like there are standard functions, standard matrices arises.
+
+Identity matrix
+
+This matrix is like number 1. It can be multiplied to the vector to gave same vector back.
+
+$$
+\begin{bmatrix}
+1 & 0 & 0 \\
+0 & 1 & 0 \\
+0 & 0 & 1 \\
+\end{bmatrix}
+\begin{bmatrix}
+a_1 &  a_2 & a_3
+\end{bmatrix}
+=
+\begin{bmatrix}
+a_1 & a_2 & a_3
+\end{bmatrix}
+$$
+
+From now on, we will set the rules that all operators have to be square matrix.
+
+Just like, all other numbers arise from adding number 1, we can add and multiply identity matrix with numbers to create a bunch of matirices. All these matrices will have it's off diagonal elements as 0.
+
+There is a matrix what when multiplied by gives unitary matix. That matrix is its inverse 
+
+Matrices in real life can be huge and can have all kinds of elements. In order to tame them, we need to set some ground rules for what matrix can and cannot have as it's elements and how to check whether those rules are followed. Scientists like to name these matrics with special names, so that when the name is invoked we immediately get valuable information about the contents of the matrix.
+
+A matrix can have complex numbers as it's elements. You can take complex conjugate of an matrix.
+The only way a matrix is equal to it's complex conjugate is when all elements of the matrix are real numbers. So if a matrix's complex conjugate is equal to the original matrix, its a real matrix.
+
+A transpose of a matrix is when you interchange it's rows and collumns. The only way a matrix is equal to it's transpose is if it is symmetric. So a symmetric matrix is a matrix whose rows and columns can be interchanged.
+
+A matrix whose
+
