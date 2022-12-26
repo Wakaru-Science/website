@@ -72,9 +72,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Hii, I am  Dipesh!."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://wakaruscience.com"
+    - label: "Google Scholar"
+      icon: "fa-brands fa-google"
+      url: "https://scholar.google.com/citations?user=CDNxKvoAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Dipu_Scientist"
@@ -86,7 +86,13 @@ author:
       url: "https://instagram.com/meiou_tsukizoku"
     - label: "Instagram"
       icon: "fab fa-linkedin-in"
-      url: "https://instagram.com/meiou_tsukizoku"
+      url: "https://www.linkedin.com/in/dipesh-somvanshi/"
+    - label: "Researchgate"
+      icon: "fa-brands fa-researchgate"
+      url: "https://www.researchgate.net/profile/Dipesh-Somvanshi"
+    - label: "Orcid"
+      icon: "fa-brands fa-orcid"
+      url: "https://orcid.org/0000-0002-8552-5548"
       
 footer:
   links:
@@ -98,8 +104,8 @@ footer:
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+      url: "https://instagram.com/meiou_tsukizoku"
+      
 defaults:
   # _posts
   - scope:
