@@ -89,7 +89,7 @@ a_3 & b_3
 \end{bmatrix}
 =
 \begin{bmatrix}
-\vec{a} & \vec{a}
+\vec{a} & \vec{b}
 \end{bmatrix}
 $$
 
@@ -113,9 +113,27 @@ a_3
 \end{bmatrix}
 $$
 
+We can perform one important simplification, ie once the basis $$[\hat{i} , \hat{j} ,\hat{k}]$$ is defined, a vector can be repsented only as $$
+\begin{bmatrix}
+a_1 \\
+a_2 \\
+a_3
+\end{bmatrix}$$, where the order in which the vector magnitudes appears, denote which unit vector it corresponds to.
 
 
+Thus, the dot product $$ \vec{a} . \vec{b} = a_1 b_1 + a_2 b_2 + a_3 b_3 $$ is:
 
+$$
+\begin{bmatrix}
+a_1 \\
+a_2 \\
+a_3
+\end{bmatrix}
+\begin{bmatrix}
+b_1 & b_2 & b_3 \\
+\end{bmatrix}
+=
+a_1 b_1 + a_2 b_2 + a_3 b_3 $$
 
 
 
