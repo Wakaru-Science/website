@@ -54,10 +54,23 @@ $$ \vec{a} . \vec{a} = a_1^2 + a_2^2 + a_3^2 $$
 
 $$ \hat{i} . \vec{b} = a_1 $$
 
-$$ \hat{i} . \hat{i} = 1 \text{and} \hat{j} . \hat{j} = 0$$
+$$ \hat{i} . \hat{i} = 1 \text{ and } \hat{j} . \hat{j} = 0$$
 
 When we are dealing with a group of vectors, this method quickly becomes tedious. Once the unit vectors are defined for a system, they do not change and writing them again and again does not accomplish anything. Moreover, we need a way to perform operations, addition, multiplication, and manipulate a group of vectors in one go. The current method is good for single for single vector operations, but not for a many vectors. In the current method, we also need a way to group multiple operations (series of additon, multipication in a specific order) so that we can we can do much more complicated things.
 
+Instead of representing $$ \vec{a} \text{ as } a_1 \hat{i} + a_2 \hat{i} + a_3 \hat{j} $$, we can represent it as:
+
+\begin{bmatrix}
+a_1 & a_2 & a_3
+\end{bmatrix}
+.
+\begin{bmatrix}
+\hat{i} \\
+\hat{j} \\
+\hat{k}
+\end{bmatrix}
+=
+$$\vec{a}$$
 
 
 
