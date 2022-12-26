@@ -221,4 +221,39 @@ a_1 &  a_2\cos{\theta} + a_3\sin{\theta} & -a_2\sin{\theta} + a_3\cos{\theta}
 \end{bmatrix}
 $$
 
-where the matrix-function  will rotate the vector around x axis by $$ \theta $$ degrees. Such a matrix with a special job to do needs a special name too - Operator
+where the matrix-function will rotate the vector around x axis by $$ \theta $$ degrees. Such a matrix with a special job to do needs a special name too - Operator
+
+How does the operator act?
+
+$$
+\begin{bmatrix}
+1 \\
+0 \\
+0 \\
+\end{bmatrix}
+\begin{bmatrix}
+a_1 & a_2 & a_3
+\end{bmatrix} 
++
+\begin{bmatrix}
+0            \\
+\cos{\theta} \\
+\sin{\theta} \\
+\end{bmatrix}
+\begin{bmatrix}
+a_1 & a_2 & a_3
+\end{bmatrix} 
++
+\begin{bmatrix}
+0             \\
+-\sin{\theta} \\
+\cos{\theta}  \\
+\end{bmatrix}
+\begin{bmatrix}
+a_1 & a_2 & a_3
+\end{bmatrix} 
+=
+\begin{bmatrix}
+a_1 &  a_2\cos{\theta} + a_3\sin{\theta} & -a_2\sin{\theta} + a_3\cos{\theta}
+\end{bmatrix}
+$$
