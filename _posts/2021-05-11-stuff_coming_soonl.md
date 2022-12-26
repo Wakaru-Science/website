@@ -11,6 +11,10 @@ usemathjax: true
 
 Vectors $$\mu$$
 
+\begin{equation}
+f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi
+\end{equation}
+
 Definition: Anything with a quantity and a direction is a vector. Vectors are numbers with direction, there are many quantities which are 'not symmetric in space', their value is dependent on direction, part of it's definition and a vector is used to represent that quantitity.
 
 Example: Velocity is a vector because 5 m/s up is not the same as 5 m/s down, eventhought the 'speed' (5 m/s) is the same.
